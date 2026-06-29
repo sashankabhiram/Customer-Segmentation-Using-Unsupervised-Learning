@@ -151,7 +151,7 @@ Business Insights
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/yourusername/Customer-Segmentation-Using-Unsupervised-Learning.git
+git clone https://github.com/sashankabhiram/Customer-Segmentation-Using-Unsupervised-Learning.git
 
 cd Customer-Segmentation-Using-Unsupervised-Learning
 
