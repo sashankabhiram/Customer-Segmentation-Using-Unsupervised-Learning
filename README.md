@@ -103,25 +103,29 @@ Business Insights
 
 ### Correlation Heatmap
 
-*(Insert Image)*
+<img width="1348" height="1341" alt="image" src="https://github.com/user-attachments/assets/e7e937d0-d9d2-4d3d-9906-f29109902db5" />
+
 
 ---
 
 ### Elbow Method
 
-*(Insert Image)*
+<img width="601" height="582" alt="image" src="https://github.com/user-attachments/assets/8aef398e-24db-4a32-870a-1c4c7300ae10" />
+
 
 ---
 
 ### t-SNE Visualization
 
-*(Insert Image)*
+<img width="826" height="443" alt="image" src="https://github.com/user-attachments/assets/ea0abcc6-8ed3-42cc-b6a1-7b793900a82e" />
+
 
 ---
 
 ### Final Customer Clusters
 
-*(Insert Image)*
+<img width="621" height="602" alt="image" src="https://github.com/user-attachments/assets/b19918b1-06da-4b9d-912f-db7f1cd679cf" />
+
 
 ---
 
